@@ -1,0 +1,18 @@
+{
+  "name": "book-directory-app",
+  "version": "1.0.0",
+  "description": "simple nodejs app",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "alexk0309",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "mongodb": "^6.0.0",
+    "mongoose": "^7.5.0",
+    "nodemon": "^3.0.1"
+  }
+}
